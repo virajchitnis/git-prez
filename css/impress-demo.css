@@ -336,6 +336,9 @@ b.code {
     font-size: 30px;
     font-style: italic;
 }
+#about .small {
+	font-size: 25px;
+}
 
 #vs {
     text-align: center;
@@ -352,7 +355,10 @@ b.code {
     text-align: center;
 }
 
-#init h1 {
+#end {
+	text-align: center;
+}
+#end h1 {
     font-size: 70px;
 }
 
